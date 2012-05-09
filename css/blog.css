@@ -1,0 +1,78 @@
+#content{
+		float:left;
+		width:505px;
+		padding:0 20px 5px 132px;
+			}
+.innercontent{
+		width:495px;
+		float:left;
+			}
+.content-top{
+		width:100px;
+		padding:5px;
+		border-bottom:#666 1px solid;
+			}
+.diarytitle{
+		width:100%;
+		color:#821428;
+		padding:5px;
+		border-bottom:1px dashed #821428;
+			}
+.diarycontent{
+		width:100%;
+		color:#333;
+		padding:8px 0 15px 0;
+			}
+.diaryabount{
+		width:100%;
+		color:821428;
+		padding:5px;
+			}
+#content-main a:hover{
+	color:ff3399;
+}
+#innersidebar{
+	width:190px;
+}
+#innersidebar a{
+	color:821428;
+}
+#innersidebar a:hover{
+	color:ff3399;
+}
+.list{
+	clear:both;
+	margin-bottom:5px;
+}
+.list-title{
+	color:#770077;
+	height:20px;
+	margin-left:15px;
+	padding:15px 0 10px 0;
+}
+.list-title h2{
+	float:left;
+	margin:0px;
+	padding:3px 0 0 5px;
+}
+.list-content{
+	clear:both;
+	margin:0 5px 0 15px;
+	color:#821428;
+}
+
+.list-content hr{
+	margin:5px 0px;
+	height:1px;
+	border-top:1px solid #97ACB6;
+	clear:both;
+}
+.list-content ul{
+	padding:0;
+	margin:0;
+	width:100%;
+
+}
+.list-content{
+	list-style:none;
+}

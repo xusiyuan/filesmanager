@@ -1,0 +1,91 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	text-align:center;
+	font-family:'微软雅黑';
+}
+
+a{
+	text-decoration:none;
+}
+
+#wrapper{
+	width:1024px;
+	height:800px;
+	background-image:url('../images/background_0.jpg');
+	background-repeat:no-repeat;
+	overflow:hidden;
+	margin:5px auto auto;
+}
+
+/*顶部布局*/
+#top{
+	width:960px;
+	height:245px;
+    
+}
+
+/*顶部导航栏设置*/
+#top ul{
+	width:527px;
+	height:34px;
+	float:left;
+	margin-top:10px;
+	list-style:none;
+	color:#fff;
+	font-size:20px;
+	line-height:40px;
+}
+#top a{
+	color:#8B0A50;
+}
+#top a:hover{
+	font-size:25px;
+	color:ff3399
+}
+#top ul li{
+	float:left;
+	padding:0 25px;
+
+}
+
+#lifirst{
+	margin-left:4px;
+}
+.list{
+	clear:both;
+	margin-bottom:5px;
+}
+.list-title{
+	color:#770077;
+	height:20px;
+	margin-left:15px;
+	padding:15px 0 10px 0;
+}
+.list-title h3{
+	float:left;
+	margin:0px;
+	padding:3px 0 0 5px;
+}
+.list-content{
+	clear:both;
+	margin:0 5px 0 15px;
+	color:#821428;
+	list-style:none;
+}
+.inner-list-content{
+	text-align:center;
+}
+.aboutme{
+	float:left;
+	margin:0px;
+}
+/*中间布局*/
+#main{
+    margin:0 auto;
+	width:960px;
+	height:700px;	
+}
